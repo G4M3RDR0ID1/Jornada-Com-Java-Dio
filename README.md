@@ -1,2 +1,6 @@
-# Jornada-Com-Java-Dio
-Minha jornada aprendendo Java com a Dio
+# Jornada com java
+
+Estou criando esse repositorio para poder registrar minha jornada aprendendo Java
+
+## Modulos estudados:
+### Anatomia de Classe
